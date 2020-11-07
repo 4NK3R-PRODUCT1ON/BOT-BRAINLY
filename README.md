@@ -1,2 +1,3 @@
 # BOT-BRAINLY
-Khusus pc/laptop
+
+#KHUSUS PC ATAU LAPTOP
